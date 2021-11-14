@@ -19,6 +19,6 @@
         "postcss": "^8.1.14",
         "resolve-url-loader": "^4.0.0",
         "sass": "^1.32.11",
-        "sass-loader": "^10.0.1"//本当は10.1.1に変更したかった
+        "sass-loader": "^10.0.1"
     }
 }
